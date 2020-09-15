@@ -7,7 +7,7 @@ package com.itheima.pojo;
  */
 public class User {
     private String name;//姓名
-    private String email;
+    private String email;//邮件
 
     public String getName() {
         return name;
