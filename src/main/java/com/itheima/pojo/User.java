@@ -6,7 +6,7 @@ package com.itheima.pojo;
  * @Date:2020/9/15 0015 17:01
  */
 public class User {
-    private String name;
+    private String name;//姓名
     private String email;
 
     public String getName() {
